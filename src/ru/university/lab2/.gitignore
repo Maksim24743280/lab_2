@@ -1,6 +1,6 @@
 out/
 *.class
-*.jar
+lab2.jar
 *.log
 .idea/
 *.iml
