@@ -12,8 +12,6 @@
 - `ru.university.lab2.arrays` — задания 5, 6
 
 ### Сборка и запуск
-
-**Linux/macOS:**
 ```bash
 chmod +x build.sh
 ./build.sh
